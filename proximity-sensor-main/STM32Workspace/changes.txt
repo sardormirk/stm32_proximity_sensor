@@ -1,0 +1,34 @@
+Date: November 13, 2023
+Time: 5:59 PM
+
+Changes:
+- Fixed file architecture for entire project, added entire STM32 codespace into one folder along with the design document and all other relevant project materials
+- Created a new branch for changes to be reviewed before being merged with the main branch
+
+Date: November 14, 2023
+Time: 7:03 PM
+
+Changes:
+- Added electric schematic that illustrates the pin connections with the STM32 board and the different components
+
+Date: November 15, 2023
+Time: 10:35 PM
+
+Changes:
+- Implented the ultrasonic sensor in the STM32CUBEIDE and got it working with the MCU. This core feature is the basis of the rest of the project
+  and will be changed with the rest of the other features
+- Got LED to light up when object was detected, and turn off when the object was taken out of the way
+
+Date: November 16, 2023
+Time: 10:06 PM
+
+Changes:
+- Implemented the passive buzzer in the STM32CUBEIDE and got it working with the MCU. This component is the key component to the project and will be 
+paired with the ultrasonic sensor to alert users.
+- Got the passive buzzer to change rate.
+
+Date: November 18, 2023
+Time: 9:42 PM
+- Implemented the main feature of the design: got the HCSR04 Sensor to work with the buzzer
+- The buzzer now alters the rate at which it makes a noise depending on the distance of the object to the design
+
