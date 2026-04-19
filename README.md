@@ -63,8 +63,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Showcase](https://github.com/voidblob/stm32_proximity_sensor/blob/master/device.jpg?raw=true)
-
 
 ![Showcase](https://github.com/voidblob/stm32_proximity_sensor/blob/master/proximity-sensor-main/STM32Workspace/v.1.0-electric-schematic.png?raw=true)
 
